@@ -82,4 +82,4 @@ import {
     const timer2 = setTimeout(() => {
         console.log("timer 2 has finished");
         clearTimeout(timer1)
-    }, 4000)
+    }, 2000)
